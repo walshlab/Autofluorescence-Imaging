@@ -1,0 +1,22 @@
+Cyanide Experiment 
+NADH Power 19 mW @750 nm channel
+FAD Power 50 mW  @750 nm channel
+SPC Dwell time: 50 
+
+Pre Cyanide
+
+NADH		FAD
+15:10		15:14
+15:17		15:20
+15:23		15:26
+15:29		15:31
+15:34		15:37
+
+Post Cyanide 
+
+NADH		FAD 
+15:51		15:54
+15:57		16:00
+16:03		16:05
+16:08		16:11
+16:13		16:16
